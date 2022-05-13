@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sairam1318
 - 👀 I’m interested in REACT AND JAVA
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently working on REACT
 - 💞️ I’m looking to collaborate on complex projects which involve deep understanding
-- 📫 How to reach me sairam5074@gmail.com
+- 📫 Reach me at: sairam5074@gmail.com
 
 <!---
 sairam1318/sairam1318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
