@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sairam1318
-- 👀 I’m interested in REACT AND JAVA
+- 👀 I’m interested in REACT, JAVA & Node JS
 - 🌱 I’m currently working on REACT
 - 💞️ I’m looking to collaborate on complex projects which involve deep understanding
 - 📫 Reach me at: sairam5074@gmail.com
