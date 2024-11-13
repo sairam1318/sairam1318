@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sairam1318
-- 👀 I’m interested in REACT, JAVA & Node JS
-- 🌱 I’m currently working on REACT
+- 👀 I’m interested in REACT, JAVA & Node JS and AWS
+- 🌱 I’m currently working on REACT, Node JS and AWS
 - 💞️ I’m looking to collaborate on complex projects which involve deep understanding
 - 📫 Reach me at: sairam5074@gmail.com
 
